@@ -105,7 +105,8 @@ function AiExplanation({ doctorId }: { doctorId: string }) {
           {data.source === 'llm'
             ? 'Every number above was checked against this HCP’s data before display.'
             : 'Written from this HCP’s data by a rules template (LLM unavailable or answer failed checks).'}{' '}
-          {data.cached ? 'Served from cache.' : `${data.latencyMs} ms${data.attempts > 1 ? `, ${data.attempts} attempts` : ''}.`}
+          {data.cached && 'Served from cache.'}
+          {!data.cached && data.attempts > 0 && `${data.latencyMs} ms${data.attempts > 1 ? `, ${data.attempts} attempts` : ''}.`}
         </p>
       )}
     </section>

@@ -1,6 +1,6 @@
 # Rx Priority: HCP visit ranking with grounded AI explanations
 
-**Live demo:** __LIVE_URL__
+**Live demo:** https://hcp-priority-demo.vercel.app
 
 A web app that ranks healthcare professionals (HCPs) by visit priority and shows a one-sentence AI explanation of why to visit each one. The explanation can only use that HCP's own data. **All data is synthetic.**
 
