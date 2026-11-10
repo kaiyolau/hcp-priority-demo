@@ -1,0 +1,8 @@
+.venv
+node_modules
+dist
+backend/tests
+**/__pycache__
+.pytest_cache
+docs
+.vitest

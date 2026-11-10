@@ -1,0 +1,302 @@
+[
+  {
+    "id": "hcp-001",
+    "name": "Dr. Olivia Park",
+    "specialty": "Endocrinology",
+    "city": "Victoria",
+    "rxHistory": [
+      93,
+      90,
+      84,
+      81,
+      80,
+      74
+    ],
+    "daysSinceLastVisit": 33
+  },
+  {
+    "id": "hcp-002",
+    "name": "Dr. Liam Roy",
+    "specialty": "Cardiology",
+    "city": "Halifax",
+    "rxHistory": [
+      59,
+      56,
+      51,
+      47,
+      46,
+      44
+    ],
+    "daysSinceLastVisit": 52
+  },
+  {
+    "id": "hcp-003",
+    "name": "Dr. Emma Lee",
+    "specialty": "Family Medicine",
+    "city": "Toronto",
+    "rxHistory": [
+      44,
+      49,
+      56,
+      63,
+      73,
+      81
+    ],
+    "daysSinceLastVisit": 3
+  },
+  {
+    "id": "hcp-004",
+    "name": "Dr. Noah Chen",
+    "specialty": "Oncology",
+    "city": "Montreal",
+    "rxHistory": [
+      103,
+      96,
+      91,
+      85,
+      81,
+      79
+    ],
+    "daysSinceLastVisit": 33
+  },
+  {
+    "id": "hcp-005",
+    "name": "Dr. Ava Kim",
+    "specialty": "Endocrinology",
+    "city": "Halifax",
+    "rxHistory": [
+      66,
+      66,
+      64,
+      62,
+      58,
+      57
+    ],
+    "daysSinceLastVisit": 41
+  },
+  {
+    "id": "hcp-006",
+    "name": "Dr. Ethan Wong",
+    "specialty": "Cardiology",
+    "city": "Edmonton",
+    "rxHistory": [
+      67,
+      75,
+      85,
+      97,
+      111,
+      121
+    ],
+    "daysSinceLastVisit": 41
+  },
+  {
+    "id": "hcp-007",
+    "name": "Dr. Sophia Fraser",
+    "specialty": "Family Medicine",
+    "city": "Halifax",
+    "rxHistory": [
+      57,
+      54,
+      51,
+      46,
+      43,
+      42
+    ],
+    "daysSinceLastVisit": 12
+  },
+  {
+    "id": "hcp-008",
+    "name": "Dr. Lucas Clarke",
+    "specialty": "Endocrinology",
+    "city": "Halifax",
+    "rxHistory": [
+      56,
+      53,
+      52,
+      49,
+      46,
+      44
+    ],
+    "daysSinceLastVisit": 7
+  },
+  {
+    "id": "hcp-009",
+    "name": "Dr. Mia Patel",
+    "specialty": "Neurology",
+    "city": "Ottawa",
+    "rxHistory": [
+      109,
+      102,
+      97,
+      90,
+      80,
+      74
+    ],
+    "daysSinceLastVisit": 52
+  },
+  {
+    "id": "hcp-010",
+    "name": "Dr. Benjamin Campbell",
+    "specialty": "Oncology",
+    "city": "Victoria",
+    "rxHistory": [
+      152,
+      163,
+      186,
+      210,
+      237,
+      260
+    ],
+    "daysSinceLastVisit": 12
+  },
+  {
+    "id": "hcp-011",
+    "name": "Dr. Chloe Sharma",
+    "specialty": "Family Medicine",
+    "city": "Ottawa",
+    "rxHistory": [
+      78,
+      73,
+      70,
+      66,
+      61,
+      54
+    ],
+    "daysSinceLastVisit": 104
+  },
+  {
+    "id": "hcp-012",
+    "name": "Dr. Daniel Martin",
+    "specialty": "Rheumatology",
+    "city": "Edmonton",
+    "rxHistory": [
+      106,
+      107,
+      106,
+      112,
+      119,
+      125
+    ],
+    "daysSinceLastVisit": 45
+  },
+  {
+    "id": "hcp-013",
+    "name": "Dr. Grace Nguyen",
+    "specialty": "Cardiology",
+    "city": "Toronto",
+    "rxHistory": [
+      25,
+      25,
+      24,
+      22,
+      20,
+      19
+    ],
+    "daysSinceLastVisit": 75
+  },
+  {
+    "id": "hcp-014",
+    "name": "Dr. Samuel Ali",
+    "specialty": "Rheumatology",
+    "city": "Victoria",
+    "rxHistory": [
+      98,
+      106,
+      112,
+      122,
+      137,
+      145
+    ],
+    "daysSinceLastVisit": 18
+  },
+  {
+    "id": "hcp-015",
+    "name": "Dr. Hannah Singh",
+    "specialty": "Neurology",
+    "city": "Toronto",
+    "rxHistory": [
+      102,
+      111,
+      118,
+      128,
+      136,
+      150
+    ],
+    "daysSinceLastVisit": 18
+  },
+  {
+    "id": "hcp-016",
+    "name": "Dr. Arjun Bouchard",
+    "specialty": "Cardiology",
+    "city": "Vancouver",
+    "rxHistory": [
+      47,
+      44,
+      42,
+      37,
+      35,
+      32
+    ],
+    "daysSinceLastVisit": 104
+  },
+  {
+    "id": "hcp-017",
+    "name": "Dr. Mei Wilson",
+    "specialty": "Neurology",
+    "city": "Calgary",
+    "rxHistory": [
+      61,
+      58,
+      53,
+      48,
+      46,
+      44
+    ],
+    "daysSinceLastVisit": 90
+  },
+  {
+    "id": "hcp-018",
+    "name": "Dr. Omar Gagnon",
+    "specialty": "Family Medicine",
+    "city": "Toronto",
+    "rxHistory": [
+      90,
+      94,
+      101,
+      109,
+      118,
+      129
+    ],
+    "daysSinceLastVisit": 3
+  },
+  {
+    "id": "hcp-019",
+    "name": "Dr. Priya Tremblay",
+    "specialty": "Neurology",
+    "city": "Calgary",
+    "rxHistory": [
+      83,
+      86,
+      89,
+      95,
+      99,
+      103
+    ],
+    "daysSinceLastVisit": 104
+  },
+  {
+    "id": "hcp-020",
+    "name": "Dr. Jonah MacDonald",
+    "specialty": "Endocrinology",
+    "city": "Montreal",
+    "rxHistory": [
+      35,
+      36,
+      35,
+      36,
+      38,
+      39
+    ],
+    "daysSinceLastVisit": 41
+  }
+]
